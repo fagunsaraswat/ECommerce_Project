@@ -3,7 +3,7 @@ package com.example.ECommerceApplication.service;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.example.ECommerceApplication.model.UserEntity;
+import com.example.ECommerceApplication.model.*;
 import com.example.ECommerceApplication.repository.UserRepository;
 import com.example.ECommerceApplication.repository.ProductRepository;
 import org.springframework.beans.BeanUtils;
