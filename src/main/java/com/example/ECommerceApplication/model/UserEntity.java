@@ -1,5 +1,6 @@
 package com.example.ECommerceApplication.model;
 
+import com.example.ECommerceApplication.CoreSetup.java.RoleEnum;
 import jakarta.persistence.*;
 import lombok.Data;
 

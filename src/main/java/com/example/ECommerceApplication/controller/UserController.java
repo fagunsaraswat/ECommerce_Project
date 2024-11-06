@@ -1,5 +1,6 @@
 package com.example.ECommerceApplication.controller;
 
+import com.example.ECommerceApplication.model.ProductEntity;
 import com.example.ECommerceApplication.model.UserEntity;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.Parameter;
