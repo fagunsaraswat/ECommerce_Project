@@ -5,7 +5,7 @@ import java.util.List;
 
 import com.example.ECommerceApplication.model.*;
 import com.example.ECommerceApplication.repository.UserRepository;
-import com.example.ECommerceApplication.repository.ProductRepository;
+import com.example.ECommerceApplication.repository.*;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
